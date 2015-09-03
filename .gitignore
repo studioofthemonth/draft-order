@@ -1,0 +1,26 @@
+# Logs #
+######################
+logs
+*.log
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Dependencies #
+######################
+node_modules
+
+# Sensitive #
+######################
+config/app.js
+
+# Etc #
+######################
+nodemon.json
